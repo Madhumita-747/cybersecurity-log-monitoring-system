@@ -58,7 +58,7 @@ This project builds a **data warehouse-driven cybersecurity log monitoring syste
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/raaji9/cybersecurity-log-monitoring-system.git
+   git clone https://github.com/Madhumita-747/cybersecurity-log-monitoring-system
    ```
 
 2. Install dependencies:
@@ -98,7 +98,7 @@ This project builds a **data warehouse-driven cybersecurity log monitoring syste
 ---
 
 ## GitHub Repository
-**URL:** [https://github.com/raaji9/cybersecurity-log-monitoring-system](https://github.com/Madhumita-747/cybersecurity-log-monitoring-system)
+**URL:** [https://github.com/Madhumita-747/cybersecurity-log-monitoring-system]
 
 ---
 
