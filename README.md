@@ -98,7 +98,7 @@ This project builds a **data warehouse-driven cybersecurity log monitoring syste
 ---
 
 ## GitHub Repository
-**URL:** https://github.com/raaji9/cybersecurity-log-monitoring-system
+**URL:** [https://github.com/raaji9/cybersecurity-log-monitoring-system](https://github.com/Madhumita-747/cybersecurity-log-monitoring-system)
 
 ---
 
